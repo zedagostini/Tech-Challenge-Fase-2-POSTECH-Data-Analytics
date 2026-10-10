@@ -12,6 +12,6 @@ Documente abaixo como obter os dados brutos, para que qualquer pessoa consiga re
 
 ## Como obter
 
-1. Baixe em: <!-- PREENCHER: URL -->
-2. Salve como: `data/raw/<!-- PREENCHER: nome do arquivo -->`
+1. Baixe em: https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/data
+2. Salve como: `data/raw/application_record.csv` e `data/raw/credit_record.csv`
 3. Checksum (opcional, recomendado): `shasum -a 256 data/raw/<arquivo>`
