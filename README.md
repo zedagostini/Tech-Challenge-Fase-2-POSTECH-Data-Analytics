@@ -36,9 +36,9 @@ Estes três links são **obrigatórios** e devem ser idênticos aos do PDF de su
 
 | Item | Link |
 |---|---|
-| Repositório | <!-- PREENCHER: URL pública do GitHub --> |
+| Repositório | https://github.com/zedagostini/Tech-Challenge-Fase-2-POSTECH-Data-Analytics |
 | Vídeo executivo (≤ 5 min) | https://www.youtube.com/watch?v=89olBBzNPR4 |
-| Apresentação | <!-- PREENCHER: link do arquivo em `docs/` ou Drive (ex.: docs/Apresentacao_Risco_Credito.pptx) --> |
+| Apresentação | https://drive.google.com/file/d/1Q7P1_o_Z9Jn68VEyvrGaKXXhB2osdz7X/view?usp=sharing |
 
 > ⚠️ Repositório privado ou inacessível inviabiliza a avaliação da entrega.
 > Confira o acesso em uma janela anônima antes de enviar.
