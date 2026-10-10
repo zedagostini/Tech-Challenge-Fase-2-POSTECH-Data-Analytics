@@ -24,9 +24,9 @@
 | Nome completo | RM | E-mail |
 |---|---|---|
 | Michel Fernandes da Silva | RM377742 | michelfernandes@bb.com.br |
-| Luiz Gustavo Ferreira | | luizgustavoferreira@gmail.com |
+| Luiz Gustavo Ferreira | RM377790 | luizgustavoferreira@gmail.com |
 | José Luiz D'Agostini | RM377746 | j.dagostini@bb.com.br |
-| Alexandre Simões de Carvalho Costa | | alexandre.costa.279@bb.com.br |
+| Alexandre Simões de Carvalho Costa | RM377733 | alexandre.costa.279@bb.com.br |
 
 ---
 
