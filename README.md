@@ -25,7 +25,7 @@
 |---|---|---|
 | Michel Fernandes da Silva | RM000000 | michelfernandes@bb.com.br |
 | Luiz Gustavo Ferreira | | luizgustavoferreira@gmail.com |
-| José Luiz D'Agostini | | j.dagostini@bb.com.br |
+| José Luiz D'Agostini | RM377746 | j.dagostini@bb.com.br |
 | Alexandre Simões de Carvalho Costa | | alexandre.costa.279@bb.com.br |
 
 ---
